@@ -1,2 +1,4 @@
 # background-generator-
-background color generator project 
+background color generator project
+
+By Syed 
